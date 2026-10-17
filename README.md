@@ -16,7 +16,7 @@ Two (or more) people join the same room and write code together, live — with t
   - Status bar showing language, cursor position, and connection state
 - **30+ languages** supported for highlighting and execution (C++, Python, Java, JavaScript, Go, Rust, TypeScript, and more)
 - **Real-time collaboration**: every keystroke is broadcast to everyone in the room via Socket.io
-hello how are you 
+
 ### Accounts & authentication
 - Register and sign in with **email + password**
 - Passwords hashed with **bcrypt** (12 rounds)
